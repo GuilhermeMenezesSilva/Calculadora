@@ -9,7 +9,7 @@ Este projeto consiste em uma calculadora desenvolvida em `JavaFX` que permite re
 1. Faça o download ou clone este repositório em sua máquina.
 2. Certifique-se de que você tem o Java Development Kit (JDK) instalado em sua máquina.
 3. Abra o projeto em sua IDE Java preferida.
-4. Execute o arquivo principal `CalculatorApp.java` para iniciar a calculadora.
+4. Execute o arquivo principal `App.java` para iniciar a calculadora.
 
 ## Instruções para uso
 
