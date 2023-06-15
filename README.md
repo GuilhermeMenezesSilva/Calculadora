@@ -7,10 +7,10 @@
 
 ## Funcionalidades 
 
-- [] Soma
-- [] Subtração
-- [] Multiplicação
-- [] Divisão
-- [] Raiz
-- [] Quadrado
-- [] Log em BD
+- [ ] Soma
+- [ ] Subtração
+- [ ] Multiplicação
+- [ ] Divisão
+- [ ] Raiz
+- [ ] Quadrado
+- [ ] Log em BD
